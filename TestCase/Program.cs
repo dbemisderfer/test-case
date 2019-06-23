@@ -6,6 +6,8 @@ namespace TestCase
     {
         public static void Main(string[] args)
         {
+            // Testing Github commits
+
             //uint myUint = 4;
             //short myShort = -5;
             //ushort myUShort = 77;
